@@ -6,7 +6,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglaskurotaki&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaskurotaki&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=douglaskurotaki&theme=radical&hide_border=true"/>
 	 	  	  
 ### A little about me...  <img src="https://media.giphy.com/media/eJjBP5o1N8tR7Hem2g/giphy.gif" width="60"> 
-    A passionate developer, currently working as Software Engineer at LiberCapital
+    A passionate developer, currently working as Software Engineer
 
   
 ###  ⚙️ Some Tool and Tech I use:     
