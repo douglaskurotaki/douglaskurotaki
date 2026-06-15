@@ -1,5 +1,6 @@
 
-<img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVrZ2xhMHNqdjFwNzFzdGp0dW4wbXFjZjYzNG9pemViOThld2wzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3UP4fTE6QfuoooLaC/giphy.gif">
+<img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FweHJsZ3V4cDJoODh6dnB4Nm83MmJwMDc2eG84a3h3YzR0dXQyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ies0Iqu9Yc5UqpOk6A/giphy.gif">
+
 
 <div align="center">
 <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=douglaskurotaki&theme=dracula"/> 
